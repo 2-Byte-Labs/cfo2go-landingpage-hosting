@@ -1,20 +1,20 @@
 {
-    "name": "2 Byte Labs",
-    "short_name": "2 Byte Labs",
+    "name": "CFO 2 Go",
+    "short_name": "CFO 2 Go",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png?v=1.0",
+            "src": "/favicon/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-512x512.png?v=1.0",
+            "src": "/favicon/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
     ],
-    "theme_color": "#003366",
-    "background_color": "#003366",
-    "start_url": "2bytelabs.io",
+    "theme_color": "#7ebdc2",
+    "background_color": "#7ebdc2",
+    "start_url": "cfoontario.ca",
     "display": "standalone"
 }
